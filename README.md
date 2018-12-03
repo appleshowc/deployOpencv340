@@ -1,5 +1,9 @@
 # **Windows 下 OpenCV 3.4.0 + Contrib 部署文档 (VS2015 & Android)**
 
+## **声明**
+
+以下[参考]链接，如有侵权，请联系删除，在此先感谢在网络上无私奉献的人们~
+
 ## **目录**
 
 - [**Windows 下 OpenCV 3.4.0 + Contrib 部署文档 (VS2015 & Android)**](#windows-%E4%B8%8B-opencv-340--contrib-%E9%83%A8%E7%BD%B2%E6%96%87%E6%A1%A3-vs2015--android)
